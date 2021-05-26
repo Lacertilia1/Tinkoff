@@ -1,6 +1,8 @@
 // greeting.less
 
 .greeting {
+  position: relative;
+
   min-height: 509px;
 
   background-color: var(--light-blue);
@@ -11,4 +13,20 @@
   @media (min-resolution: 2dppx) {
     background-image: url("../../img/index/greeting__main-photo@2x.jpg");
   }
+}
+
+.greeting__slogan {
+  position: absolute;
+  top: 77px;
+  left: 0;
+  right: 0;
+
+  margin: 0 auto;
+}
+
+.greeting__element {
+  position: absolute;
+  bottom: 0;
+
+  fill: var(--white);
 }
