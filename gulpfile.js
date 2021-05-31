@@ -44,9 +44,9 @@ const html = () => {
 // Scripts
 
 const scripts = () => {
-  return gulp.src("source/js/script.js")
+  return gulp.src(["source/js/script.js", "source/js/map.js"])
     .pipe(terser())
-    .pipe(rename("script.min.js"))
+    .pipe(rename(["script.min.js", "map.min.js"]))
     .pipe(gulp.dest("build/js"))
     .pipe(sync.stream());
 }

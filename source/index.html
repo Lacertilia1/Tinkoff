@@ -106,7 +106,7 @@
         </div>
 
         <div class="features__item">
-          <picture>
+          <picture class="features__picture">
             <source type="image/webp"
               srcset="img/index/features__second-image.webp 1x, img/index/features__second-image@2x.jpg 2x">
 
@@ -148,12 +148,34 @@
           </div>
         </div>
 
-        <div></div>
+      </section>
+
+      <section class="registration">
+        <h2 class="registration__heading visually-hidden">Форма для регистрации</h2>
+
+        <p class="registration__title">
+          Заинтересовались?
+        </p>
+        <p class="registration__subtitle">
+          Укажите предполагаемые даты поездки,<br> и мы покажем вам лучшие предложения гостиниц в седоне
+        </p>
+        <button class="registration__button" type="button">ПОИСК ГОСТИНИЦЫ В седоне</button>
+
+        <div id="map" class="registration__map">
+          <!-- Здесь находится карта -->
+        </div>
+      </section>
+
+      <section class="body__footer footer">
 
       </section>
+
     </main>
 
   </div> <!-- /.container -->
+
+  <script src="https://api-maps.yandex.ru/2.1/?apikey=a1fc7a3f-474f-49ed-a6f5-84051e97e27b&lang=ru_RU" type="text/javascript"></script>
+  <script src="js/map.js"></script>
 </body>
 
 </html>
