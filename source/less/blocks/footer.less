@@ -1,9 +1,15 @@
 //  footer.less
 
 .footer {
+  position: absolute;
+  bottom: 0;
+
   display: flex;
   justify-content: space-around;
   align-items: center;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
 
   min-height: 120px;
 
@@ -24,6 +30,10 @@
   text-transform: uppercase;
 }
 
+.footer__contact-item:nth-of-type(1) {
+  margin-bottom: 9px;
+}
+
 .footer__phone {
   color: var(--black);
 }
@@ -40,7 +50,36 @@
   list-style-type: none;
 }
 
+.footer__social-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 46px;
+  height: 48px;
+
+  background-color: var(--light-blue);
+}
+
 .footer__icon {
   fill: var(--white);
-  background-color: var(--light-blue);
+}
+
+// copyright
+
+.footer__copyright-link {
+  display: flex;
+  align-items: center;
+}
+
+.footer__copyright-text {
+  margin-right: 8px;
+
+  text-transform: uppercase;
+
+  color: var(--black);
+}
+
+.footer__copyright-svg {
+  fill: var(--footer-html);
 }
