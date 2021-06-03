@@ -59,10 +59,23 @@
   height: 48px;
 
   background-color: var(--light-blue);
+
+  &:hover {
+    background-color: var(--light-blue-hover);
+  }
+
+  &:active {
+    background-color: var(--light-blue-active);
+  }
+}
+
+.footer__social-link:active .footer__icon {
+  opacity: 0.3;
 }
 
 .footer__icon {
   fill: var(--white);
+  opacity: 1;
 }
 
 // copyright
@@ -82,4 +95,12 @@
 
 .footer__copyright-svg {
   fill: var(--footer-html);
+}
+
+.footer__copyright-link:hover .footer__copyright-svg {
+  fill: var(--light-blue);
+}
+
+.footer__copyright-link:active .footer__copyright-svg {
+  fill: var(--light-grey);
 }
