@@ -1,0 +1,1 @@
+let button=document.querySelector(".registration__button"),form=document.querySelector(".registration__form");form.classList.add("registration__form--hidden"),button.addEventListener("click",(function(){form.classList.contains("registration__form--hidden")?form.classList.remove("registration__form--hidden"):form.classList.add("registration__form--hidden")}));

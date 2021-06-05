@@ -159,7 +159,54 @@
         <p class="registration__subtitle">
           Укажите предполагаемые даты поездки,<br> и мы покажем вам лучшие предложения гостиниц в седоне
         </p>
+
         <button class="registration__button" type="button">ПОИСК ГОСТИНИЦЫ В седоне</button>
+        <form class="registration__form" method="post" action="https://echo.htmlacademy.ru" target="_blank">
+          <div class="registration__wrapper">
+            <label class="registration__label" for="start">Дата заезда:</label>
+            <input class="registration__input" id="start" value="24 апреля 2017" name="start">
+
+            <svg class="registration__calendar" width="21" height="23">
+              <use xlink:href="img/svg/sprite.svg#form__calendar"></use>
+            </svg>
+          </div>
+
+          <div class="registration__wrapper">
+            <label class="registration__label" for="end">Дата выезда:</label>
+            <input class="registration__input" id="end" value="4 июля 2017" name="end">
+
+            <svg class="registration__calendar" width="21" height="23">
+              <use xlink:href="img/svg/sprite.svg#form__calendar"></use>
+            </svg>
+          </div>
+
+          <div class="registration__wrapper">
+            <label class="registration__label" for="old">Взрослые:</label>
+            <div class="registration__input-wrapper">
+              <svg class="registration__minus" width="12" height="3">
+                <use xlink:href="img/svg/sprite.svg#form__minus"></use>
+              </svg>
+              <input class="registration__input registration__input--small" id="old" type="number" value="2" name="old">
+              <svg class="registration__plus" width="11" height="11">
+                <use xlink:href="img/svg/sprite.svg#form__plus"></use>
+              </svg>
+            </div>
+
+            <label class="registration__label" for="young">Дети:</label>
+
+            <div class="registration__input-wrapper">
+              <svg class="registration__minus" width="12" height="3">
+                <use xlink:href="img/svg/sprite.svg#form__minus"></use>
+              </svg>
+              <input class="registration__input registration__input--small" id="young" type="number" value="0" name="young">
+              <svg class="registration__plus" width="11" height="11">
+                <use xlink:href="img/svg/sprite.svg#form__plus"></use>
+              </svg>
+            </div>
+          </div>
+
+          <button class="registration__button registration__button--form">Найти</button>
+        </form>
 
         <div id="map" class="registration__map">
           <!-- Здесь находится карта -->
@@ -168,14 +215,14 @@
 
       <footer class="body__footer footer">
         <div class="footer__contact-list">
-          <p class="footer__contact-item">#visitSEDONA</p>
-          <p class="footer__contact-item"><a class="footer__phone" href="tel:+74956660166">ТЕЛ: +7(495) 666-01-66</a>
-          </p>
+          <a class="footer__contact-item" href="https://www.instagram.com/htmlacademy/?hl=ru"
+            target="_blank">#visitSEDONA</a>
+          <a class="footer__contact-item" href="tel:+74956660166">ТЕЛ: +7(495) 666-01-66</a>
         </div>
 
         <ul class="footer__social-list">
           <li class="footer__social-item">
-            <a class="footer__social-link" href="#">
+            <a class="footer__social-link" href="https://twitter.com/htmlacademy_ru" target="_blank">
               <span class="footer__social-description visually-hidden">Twitter</span>
               <svg class="footer__icon" width="17" height="17">
                 <use xlink:href="img/svg/sprite.svg#footer__twitter"></use>
@@ -183,7 +230,7 @@
             </a>
           </li>
           <li class="footer__social-item">
-            <a class="footer__social-link" href="#">
+            <a class="footer__social-link" href="https://www.facebook.com/htmlacademy/" target="_blank">
               <span class="footer__social-description visually-hidden">Facebook</span>
               <svg class="footer__icon" width="12" height="22">
                 <use xlink:href="img/svg/sprite.svg#footer__facebook"></use>
@@ -191,7 +238,8 @@
             </a>
           </li>
           <li class="footer__social-item">
-            <a class="footer__social-link" href="#">
+            <a class="footer__social-link" href="https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g"
+              target="_blank">
               <span class="footer__social-description visually-hidden">Youtube</span>
               <svg class="footer__icon" width="20" height="16">
                 <use xlink:href="img/svg/sprite.svg#footer__youtube"></use>
@@ -201,7 +249,7 @@
         </ul>
 
         <div class="footer__copyright">
-          <a class="footer__copyright-link" href="#">
+          <a class="footer__copyright-link" href="https://htmlacademy.ru/study" target="_blank">
             <span class="footer__copyright-text">Website by</span>
             <svg class="footer__copyright-svg" width="115" height="41">
               <use xlink:href="img/svg/sprite.svg#footer__html"></use>
@@ -217,6 +265,7 @@
   <script src="https://api-maps.yandex.ru/2.1/?apikey=a1fc7a3f-474f-49ed-a6f5-84051e97e27b&lang=ru_RU"
     type="text/javascript"></script>
   <script src="js/map.js"></script>
+  <script src="js/script.js"></script>
 </body>
 
 </html>
