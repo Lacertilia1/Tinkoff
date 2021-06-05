@@ -28,14 +28,22 @@
   font-weight: 700;
   font-size: 21px;
   text-transform: uppercase;
+
+  color: var(--black);
+
+  transition: color 0.1s linear;
+
+  &:hover {
+    color: var(--black-hover);
+  }
+
+  &:active {
+    color: var(--black-active);
+  }
 }
 
 .footer__contact-item:nth-of-type(1) {
   margin-bottom: 9px;
-}
-
-.footer__phone {
-  color: var(--black);
 }
 
 // socials
@@ -59,6 +67,8 @@
   height: 48px;
 
   background-color: var(--light-blue);
+
+  transition: background-color 0.1s linear;
 
   &:hover {
     background-color: var(--light-blue-hover);

@@ -1,6 +1,8 @@
 // registration.less
 
 .registration {
+  position: relative;
+
   padding-top: 40px;
   text-align: center;
 }
@@ -27,10 +29,12 @@
 }
 
 .registration__button {
+  width: 568px;
+  box-sizing: border-box;
   padding-top: 31px;
   padding-bottom: 31px;
-  padding-right: 140px;
-  padding-left: 140px;
+  padding-right: 60px;
+  padding-left: 60px;
 
   font-size: 21px;
   font-weight: 700;
@@ -40,6 +44,202 @@
   background-color: var(--brown);
 
   border: none;
+
+  cursor: pointer;
+
+  transition: background-color 0.1s linear;
+
+  &:hover {
+    background-color: var(--brown-hover);
+  }
+
+  &:active {
+    color: var(--white-active);
+    background-color: var(--brown-active);
+  }
+}
+
+.registration__button--form {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  width: 100%;
+
+  background-color: var(--light-blue);
+
+  &:hover {
+    background-color: var(--light-blue-hover);
+  }
+
+  &:active {
+    background-color: var(--light-blue-active);
+  }
+}
+
+// registration__form
+
+.registration__form {
+  position: absolute;
+  top: 312px;
+  left: 0;
+  right: 0;
+  z-index: 10;
+
+  display: flex;
+  flex-direction: column;
+
+  box-sizing: border-box;
+  width: 568px;
+  padding-top: 55px;
+  padding-bottom: 55px;
+  padding-right: 55px;
+  padding-left: 55px;
+  margin: 0 auto;
+
+  background-color: var(--white);
+  box-shadow: 0 7px 15px var(--form-shadow);
+
+  animation: bounce 0.6s;
+}
+
+.registration__form--hidden {
+  display: none;
+}
+
+.registration__input {
+  box-sizing: border-box;
+  width: 346px;
+  height: 38px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 13px;
+  padding-right: 38px;
+
+  font-weight: 700;
+  text-transform: uppercase;
+
+  border: none;
+
+  background-color: var(--background);
+  outline: none;
+
+  transition: background-color 0.1s linear;
+
+  &:hover {
+    background-color: var(--form-hover);
+  }
+
+  &:focus {
+    border: 2px solid var(--form-focus);
+    box-sizing: border-box;
+
+    background-color: var(--blue);
+  }
+}
+
+.registration__input-wrapper {
+  position: relative;
+}
+
+.registration__input--small {
+  width: 114px;
+  padding-right: 0;
+  padding-left: 0;
+
+  text-align: center;
+
+  appearance: textfield;
+}
+
+.registration__plus {
+  position: absolute;
+  right: 0;
+
+  padding-top: 14px;
+  padding-right: 14px;
+  padding-bottom: 13px;
+  padding-left: 14px;
+
+  fill: var(--calendar);
+  opacity: 1;
+
+  &:hover {
+    fill: var(--black);
+  }
+
+  &:active {
+    fill: var(--light-blue);
+  }
+
+  cursor: pointer;
+}
+
+.registration__minus {
+  position: absolute;
+
+  padding-top: 18px;
+  padding-right: 13px;
+  padding-bottom: 18px;
+  padding-left: 13px;
+
+  fill: var(--calendar);
+  opacity: 1;
+
+  &:hover {
+    fill: var(--black);
+  }
+
+  &:active {
+    fill: var(--light-blue);
+  }
+
+  cursor: pointer;
+}
+
+// Данные свойства убирают стрелки у input[type='number']
+
+.registration__input--small::-webkit-outer-spin-button,
+.registration__input--small::-webkit-inner-spin-button {
+  appearance: none;
+}
+
+// ======================================================
+
+.registration__calendar {
+  position: absolute;
+  top: 7px;
+  right: 9px;
+
+  fill: var(--calendar);
+  opacity: 1;
+
+  &:hover {
+    fill: var(--black);
+  }
+
+  &:active {
+    fill: var(--light-blue);
+  }
+
+  cursor: pointer;
+}
+
+.registration__wrapper {
+  position: relative;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 30px;
+}
+
+.registration__wrapper:last-of-type {
+  margin-bottom: 54px;
+}
+
+.registration__label {
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 .registration__map {
@@ -49,4 +249,24 @@
   min-height: 594px;
 
   border: none;
+}
+
+// animations
+
+@keyframes bounce {
+  0% {
+    transform: translateY(-2000px);
+  }
+
+  70% {
+    transform: translateY(30px);
+  }
+
+  90% {
+    transform: translateY(-10px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
 }
