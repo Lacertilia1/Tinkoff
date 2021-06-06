@@ -23,7 +23,7 @@ Sedona is an entry-level @htmlacademy layout.
 
 
 
-                                          styleguide 
+                                             styleguide 
 
 
 
