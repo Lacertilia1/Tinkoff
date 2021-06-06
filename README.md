@@ -1,5 +1,7 @@
 # Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
+#### Social links
+
 <a href="https://vk.com/artist_idiot"><img align="left" width="200" height="200" alt="VK layout" src="images/vk.png"></a>
 
 <a href="https://www.twitch.tv/paxah"><img align="left" width="200" height="200" alt="Twitch layout" src="images/twitch.png"></a>
