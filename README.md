@@ -6,13 +6,13 @@
 
 <a href="https://www.instagram.com/artist_idiot/"><img align="left" width="200" height="200" alt="Instagram layout" src="images/instagram.png"></a>
 
----
+  
 
 # Sedona
 
 Sedona is an entry-level [@htmlacademy] layout.
 
-<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="200" height="200" alt="Figma layout" src="images/figma.webp"></a> Click on the **_logo_** to open the layout in **Figma**.
+<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="50" height="50" alt="Figma layout" src="images/figma.webp"></a> Click on the **_logo_** to open the layout in **Figma**.
 
 ##                                        Preview
 
