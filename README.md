@@ -1,4 +1,4 @@
-# Student: [Pavel Ivanov](https://https://vk.com/artist_idiot).
+# Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
 ---
 
