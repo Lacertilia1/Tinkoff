@@ -11,7 +11,8 @@ Sedona is an entry-level @htmlacademy layout.
 
 ## Technical task
 
-* 1. General technical requirements
+## 1. General technical requirements
+
 * 1.1. Layout standards: HTML, CSS, progressive enhancement.
 * 1.2. Grid: defined in the layout.
 * 1.3. Layout adaptability: no.
@@ -24,6 +25,7 @@ Sedona is an entry-level @htmlacademy layout.
 ---
 
 ## 2. Explanations for students
+
 * 2.1. The section "Prerequisites" describes the behavior of blocks that must be implemented to successfully protect the project. Requirements from the Additional Requirements section can be implemented as desired to fulfill additional criteria.
 
 ---
