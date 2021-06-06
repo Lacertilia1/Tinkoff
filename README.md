@@ -3,13 +3,14 @@
 ---
 
 # Sedona
-Sedona is an entry-level @htmlacademy layout.
 
-<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="50" height="50" alt="Figma layout" src="images/figma.webp"></a> Click on the logo to open the layout in Figma
+Sedona is an entry-level [@htmlacademy] layout.
 
-## Preview
+<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="50" height="50" alt="Figma layout" src="images/figma.webp"></a> Click on the **_logo_** to open the layout in **Figma**.
 
-                                                 index.html - main page of the website
+##                                        Preview
+
+                                          index.html - main page of the website
 
 
 
@@ -17,7 +18,7 @@ Sedona is an entry-level @htmlacademy layout.
 
 
 
-                                                 catalog.html - extra page of the website
+                                          catalog.html - extra page of the website
 
 
 
@@ -25,7 +26,7 @@ Sedona is an entry-level @htmlacademy layout.
 
 
 
-                                             styleguide 
+                                        styleguide 
 
 
 
@@ -103,3 +104,4 @@ The repository was created for training on the professional online course «[HTM
 
 [check-image]: https://github.com/htmlacademy-adaptive/1629453-pink-22/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1629453-pink-22/actions
+[@htmlacademy]: https://htmlacademy.ru
