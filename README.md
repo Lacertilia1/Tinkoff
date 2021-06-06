@@ -5,6 +5,8 @@
 # Sedona
 Sedona is an entry-level @htmlacademy layout.
 
+![Иллюстрация к проекту](https://github.com/Lacertilia1/Sedona/raw/main/image/test__one.jpg)
+
 ---
 
 ## Technical task
