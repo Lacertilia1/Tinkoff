@@ -6,7 +6,7 @@
 Sedona is an entry-level @htmlacademy layout.
 
 ```no-highlight
-                                                    index.html - main page of the website
+                                          index.html - main page of the website
 ```
 
 ![Иллюстрация к проекту](images/index.jpg)
