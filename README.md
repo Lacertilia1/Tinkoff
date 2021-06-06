@@ -10,7 +10,7 @@ Sedona is an entry-level [@htmlacademy] layout.
 
 ##                                        Preview
 
-                                          index.html - main page of the website
+                  ======================== index.html - main page of the website ========================
 
 
 
@@ -18,7 +18,7 @@ Sedona is an entry-level [@htmlacademy] layout.
 
 
 
-                                          catalog.html - extra page of the website
+                  ======================== catalog.html - extra page of the website ========================
 
 
 
@@ -26,7 +26,7 @@ Sedona is an entry-level [@htmlacademy] layout.
 
 
 
-                                        styleguide 
+                   ======================== styleguide ======================== 
 
 
 
