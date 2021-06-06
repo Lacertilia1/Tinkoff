@@ -7,6 +7,7 @@
 <a href="https://www.instagram.com/artist_idiot/"><img align="left" width="200" height="200" alt="Instagram layout" src="images/instagram.png"></a>
 
   
+  
 
 # Sedona
 
