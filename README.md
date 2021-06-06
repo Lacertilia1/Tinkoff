@@ -5,19 +5,19 @@
 # Sedona
 Sedona is an entry-level @htmlacademy layout.
 
---
+---
 
 # Site pages
 
-## Index
+## `Index`
 
 ![Иллюстрация к проекту](images/index.jpg)
 
-## Catalog 
+## `Catalog`
 
 ![Иллюстрация к проекту](images/catalog.jpg)
 
-## Styleguide
+## `Styleguide`
 
 ![Иллюстрация к проекту](images/styleguide.jpg)
 
