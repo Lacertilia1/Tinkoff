@@ -1,13 +1,5 @@
 # Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
-#### Social links
-
-<a href="https://vk.com/artist_idiot"><img align="left" width="200" height="200" alt="VK layout" src="images/vk.png"></a>
-
-<a href="https://www.twitch.tv/paxah"><img align="left" width="200" height="200" alt="Twitch layout" src="images/twitch.png"></a>
-
-<a href="https://www.instagram.com/artist_idiot/"><img align="left" width="200" height="200" alt="Instagram layout" src="images/instagram.png"></a>
-
 ##                                        Preview
 
                   ======================== index.html - main page of the website ========================
@@ -111,6 +103,14 @@ Sedona is an entry-level [@htmlacademy] layout.
 <a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
 
 The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
+
+#### Social links
+
+<a href="https://vk.com/artist_idiot"><img align="left" width="200" height="200" alt="VK layout" src="images/vk.png"></a>
+
+<a href="https://www.twitch.tv/paxah"><img align="left" width="200" height="200" alt="Twitch layout" src="images/twitch.png"></a>
+
+<a href="https://www.instagram.com/artist_idiot/"><img align="left" width="200" height="200" alt="Instagram layout" src="images/instagram.png"></a>
 
 [check-image]: https://github.com/htmlacademy-adaptive/1629453-pink-22/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1629453-pink-22/actions
