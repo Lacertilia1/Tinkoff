@@ -1,0 +1,39 @@
+//  button.less
+
+.button {
+  padding-right: 16px;
+  padding-left: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+
+  border: none;
+
+  text-transform: uppercase;
+  line-height: 21px;
+
+  background-color: var(--light-blue);
+  color: var(--white);
+
+  cursor: pointer;
+
+  &:hover {
+    background-color: var(--light-blue-hover);
+  }
+
+  &:active {
+    background-color: var(--light-blue-active);
+    color: var(--white-active);
+  }
+}
+
+.button--book {
+  background-color: var(--brown);
+
+  &:hover {
+    background-color: var(--brown-hover);
+  }
+
+  &:active {
+    background-color: var(--brown-active);
+  }
+}
