@@ -1,0 +1,52 @@
+//  range.less
+
+.range {
+  width: 317px;
+}
+
+.range__wrapper {
+  position: relative;
+
+  margin-bottom: 30px;
+}
+
+.range__wrapper .range__scale {
+  height: 2px;
+
+  background-color: var(--white-active);
+}
+
+.range__wrapper .range__bar {
+  width: 70%;
+  height: 2px;
+
+  background-color: var(--white);
+}
+
+.range__wrapper .range__toggle {
+  position: absolute;
+  top: -8px;
+  width: 3px;
+  height: 3px;
+  padding: 0;
+
+  border: 8px solid var(--white);
+  border-radius: 50%;
+
+  background-color: var(--range-button);
+
+  box-shadow: 0 2px 1px 0 var(--range-button-shadow);
+
+  cursor: pointer;
+
+  transition: border 0.1s linear;
+
+  &:hover {
+    top: -9px;
+    border: 10px solid var(--white);
+  }
+}
+
+.range__toggle--max {
+  left: 210px;
+}

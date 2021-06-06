@@ -4,8 +4,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/style.min.css">
   <title>Sedona</title>
+
+  <link rel="stylesheet" href="css/style.min.css">
+  <link rel="icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/png" href="img/favicon/png-32.png">
+  <link rel="icon" href="img/favicon/svg-32.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="img/favicon/png-180.png">
+
+  <link rel="preload" href="fonts/pt-sans-v12-latin_cyrillic-700.woff2" type="font/woff2" as="font">
+  <link rel="preload" href="fonts/pt-sans-v12-latin_cyrillic-regular.woff2" type="font/woff2" as="font">
+  <meta name="description"
+    content="Курсы для всех. Интерактивные задания помогут освоить веб-технологии и создать сайт, а профессиональные курсы подготовят к старту карьеры в IT.">
+  <meta name="keywords" content="sedona, html academy, готовый проект, бесплатно">
 </head>
 
 <body class="body">
@@ -24,9 +35,15 @@
             <a class="header__link" href="#">Карта штата</a>
           </li>
           <li class="header__item">
-            <a class="header__link" href="#">Гостиницы</a>
+            <a class="header__link" href="catalog.html">Гостиницы</a>
           </li>
         </ul>
+
+        <a class="header__logo-link" href="#">
+          <svg class="header__logo" width="138" height="70">
+            <use xlink:href="img/svg/sprite.svg#header__logo"></use>
+          </svg>
+        </a>
       </nav>
     </header>
 
@@ -198,7 +215,8 @@
               <svg class="registration__minus" width="12" height="3">
                 <use xlink:href="img/svg/sprite.svg#form__minus"></use>
               </svg>
-              <input class="registration__input registration__input--small" id="young" type="number" value="0" name="young">
+              <input class="registration__input registration__input--small" id="young" type="number" value="0"
+                name="young">
               <svg class="registration__plus" width="11" height="11">
                 <use xlink:href="img/svg/sprite.svg#form__plus"></use>
               </svg>
@@ -262,8 +280,7 @@
 
   </div> <!-- /.container -->
 
-  <script src="https://api-maps.yandex.ru/2.1/?apikey=a1fc7a3f-474f-49ed-a6f5-84051e97e27b&lang=ru_RU"
-    type="text/javascript"></script>
+  <script src="https://api-maps.yandex.ru/2.1/?apikey=a1fc7a3f-474f-49ed-a6f5-84051e97e27b&lang=ru_RU"></script>
   <script src="js/map.js"></script>
   <script src="js/script.js"></script>
 </body>
