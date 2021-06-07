@@ -116,13 +116,12 @@ Catalog.html - extra page of the website
 </p>
 
 
-<p align="center">
-<a href="https://vk.com/artist_idiot"><img align="left" width="200" height="200" alt="VK layout" src="images/vk.png"></a>
+<a href="https://vk.com/artist_idiot"><img align="left" width="260" height="260" alt="VK layout" src="images/vk.png"></a>
 
-<a href="https://www.twitch.tv/paxah"><img align="left" width="200" height="200" alt="Twitch layout" src="images/twitch.png"></a>
+<a href="https://www.twitch.tv/paxah"><img align="left" width="260" height="260" alt="Twitch layout" src="images/twitch.png"></a>
 
-<a href="https://www.instagram.com/artist_idiot/"><img align="left" width="200" height="200" alt="Instagram layout" src="images/instagram.webp"></a>
-</p>
+<a href="https://www.instagram.com/artist_idiot/"><img align="left" width="260" height="260" alt="Instagram layout" src="images/instagram.webp"></a>
+
 
 [check-image]: https://github.com/htmlacademy-adaptive/1629453-pink-22/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1629453-pink-22/actions
