@@ -23,9 +23,7 @@ Click on the logo to open layout in Figma.
 Index.html - main page of the website
 ```
 
-<p align="center">
-  <img width="797" height="1719" alt="Instagram layout" src="images/index.png">
-</p>
+![Иллюстрация к проекту](images/index.jpg)
 
 ```
 Catalog.html - extra page of the website
