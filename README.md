@@ -15,9 +15,9 @@ The repository was created for training on the professional online course «[HTM
 
 Click on the logo to open layout in Figma.
 
+---
 
-
-## Preview
+# Preview
 
 ```
 Index.html - main page of the website
