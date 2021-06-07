@@ -91,9 +91,6 @@ Catalog.html - extra page of the website
 
 <img align="center" width="800" height="140" alt="Instagram layout" src="images/sunglasses.png">
 
-## Student: [Pavel Ivanov](https://vk.com/artist_idiot).
-
-
 
 <img align="center" width="800" height="140" alt="Instagram layout" src="images/achieve.png">
 
