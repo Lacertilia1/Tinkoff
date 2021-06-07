@@ -98,7 +98,7 @@ Styleguide - web page element styling guide
 
 ## Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
----
+
 
 <img align="center" width="800" height="140" alt="Instagram layout" src="images/achieve.png">
 
