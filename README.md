@@ -16,7 +16,7 @@ The repository was created for training on the professional online course «[HTM
 <a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img width="60" height="60" alt="HTML Academy" src="images/figma-logo.png"></a>
 </p>
 
-<p align="center">Click on the logo to open layout in Figma.</p>
+<p align="center">Click on the logo to open layout in «[Figma](https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1)».</p>
 
 
 # Preview
