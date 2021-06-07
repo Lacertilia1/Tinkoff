@@ -4,6 +4,9 @@
 
 Sedona is an entry-level [@htmlacademy] layout.
 
+<a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
+
+The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
 
 ## Preview
 
@@ -31,7 +34,7 @@ Styleguide - web page element styling guide
 
 ![Иллюстрация к проекту](images/styleguide.jpg)
 
-<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="50" height="50" alt="Figma layout" src="images/figma.webp"></a>
+<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="800" height="140" alt="Figma layout" src="images/figmaa.png"></a>
 
 
 <img align="center" width="800" height="140" alt="Instagram layout" src="images/task.png">
@@ -99,9 +102,8 @@ Styleguide - web page element styling guide
 
 * 4.4. Filter: Clicking on the Show button submits the form.
 
-<a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
 
-The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
+---
 
 
 <img align="center" width="800" height="140" alt="Instagram layout" src="images/sunglasses.png">
