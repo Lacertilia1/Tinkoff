@@ -1,4 +1,6 @@
-<img align="center" width="800" height="140" alt="Instagram layout" src="images/training.png">
+<p align="center">
+  <img width="800" height="140" alt="Instagram layout" src="images/training.png">
+</p>
 
 # Sedona
 
