@@ -24,7 +24,7 @@ Index.html - main page of the website
 ```
 
 <p align="center">
-  ![Иллюстрация к проекту](images/index.jpg)
+  <img width="797" height="1719" alt="Instagram layout" src="images/index.png">
 </p>
 
 ```
