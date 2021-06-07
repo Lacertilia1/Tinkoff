@@ -33,7 +33,9 @@ Styleguide - web page element styling guide
 
 <a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="50" height="50" alt="Figma layout" src="images/figma.webp"></a>
 
-## Technical task
+
+<img align="center" width="800" height="140" alt="Instagram layout" src="images/task.png">
+
 
 ## 1. General technical requirements
 
@@ -107,13 +109,20 @@ The repository was created for training on the professional online course «[HTM
 ## Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
 
-```
-My achievements
-```
+---
+
+
+<img align="center" width="800" height="140" alt="Instagram layout" src="images/achieve.png">
+
 
 <img align="center" width="797" height="535" alt="Instagram layout" src="images/achievements.png">
 
+
 ---
+
+
+<img align="center" width="800" height="140" alt="Instagram layout" src="images/social.png">
+
 
 <a href="https://vk.com/artist_idiot"><img align="left" width="200" height="200" alt="VK layout" src="images/vk.png"></a>
 
