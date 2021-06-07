@@ -8,24 +8,25 @@ Sedona is an entry-level [@htmlacademy] layout.
 
 ##                                        Preview
 
+```
 Index.html - main page of the website
-
+```
 
 
 ![Иллюстрация к проекту](images/index.jpg)
 
 
-
+```
 Catalog.html - extra page of the website
-
+```
 
 
 ![Иллюстрация к проекту](images/catalog.jpg)
 
 
-
+```
 Styleguide - web page element styling guide
-
+```
 
 
 ![Иллюстрация к проекту](images/styleguide.jpg)
