@@ -1,4 +1,4 @@
-![Градиент](images/gradient.jpg)
+![Градиент](images/gradient.png)
 
 # Sedona
 
@@ -102,9 +102,6 @@ Styleguide - web page element styling guide
 The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
 
 
-![Градиент](images/row.png)
-
-
 ## Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
 
@@ -113,8 +110,6 @@ The repository was created for training on the professional online course «[HTM
 <a href="https://www.twitch.tv/paxah"><img align="left" width="200" height="200" alt="Twitch layout" src="images/twitch.png"></a>
 
 <a href="https://www.instagram.com/artist_idiot/"><img align="left" width="200" height="200" alt="Instagram layout" src="images/instagram.webp"></a>
-
-![Градиент](images/gradient.png)
 
 [check-image]: https://github.com/htmlacademy-adaptive/1629453-pink-22/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1629453-pink-22/actions
