@@ -16,7 +16,7 @@ The repository was created for training on the professional online course «[HTM
 <a href=""><img width="60" height="60" alt="HTML Academy" src="images/figma-logo.png"></a>
 </p>
 
-<p align="center">Click on the logo to open layout in **Figma**.</p>
+<p align="center">Click on the logo to open layout in Figma.</p>
 
 
 # Preview
