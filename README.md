@@ -2,7 +2,7 @@
   <img width="800" height="140" alt="Instagram layout" src="images/training.png">
 </p>
 
-# Sedona
+<p align="center"># Sedona</p>
 
 Sedona is an entry-level [@htmlacademy] layout.
 
