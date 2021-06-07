@@ -102,7 +102,7 @@ Styleguide - web page element styling guide
 The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
 
 
-![Градиент](images/gradient.webp)
+![Градиент](images/gradient.png)
 
 ## Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
