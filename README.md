@@ -31,8 +31,9 @@ Catalog.html - extra page of the website
 
 ![Иллюстрация к проекту](images/catalog.jpg)
 
-
-<img align="center" width="800" height="140" alt="Instagram layout" src="images/task.png">
+<p align="center">
+<img width="800" height="140" alt="Instagram layout" src="images/task.png">
+</p>
 
 ## 1. General technical requirements
 
@@ -98,16 +99,21 @@ Catalog.html - extra page of the website
 
 ---
 
-<img align="center" width="800" height="140" alt="Instagram layout" src="images/sunglasses.png">
+<p align="center">
+  <img width="800" height="140" alt="Instagram layout" src="images/sunglasses.png">
+</p>
 
+<p align="center">
+  <img width="800" height="140" alt="Instagram layout" src="images/achieve.png">
+</p>
 
+<p align="center">
+  <img width="797" height="535" alt="Instagram layout" src="images/achievements.png">
+</p>
 
-<img align="center" width="800" height="140" alt="Instagram layout" src="images/achieve.png">
-
-<img align="center" width="797" height="535" alt="Instagram layout" src="images/achievements.png">
-
-
-<img align="center" width="800" height="140" alt="Instagram layout" src="images/social.png">
+<p align="center">
+  <img align="center" width="800" height="140" alt="Instagram layout" src="images/social.png">
+</p>
 
 <a href="https://vk.com/artist_idiot"><img align="left" width="200" height="200" alt="VK layout" src="images/vk.png"></a>
 
