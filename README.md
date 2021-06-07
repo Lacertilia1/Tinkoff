@@ -22,11 +22,6 @@ Catalog.html - extra page of the website
 
 ![Иллюстрация к проекту](images/catalog.jpg)
 
-```
-Styleguide - web page element styling guide
-```
-
-![Иллюстрация к проекту](images/styleguide.jpg)
 
 <img align="center" width="800" height="140" alt="Instagram layout" src="images/task.png">
 
