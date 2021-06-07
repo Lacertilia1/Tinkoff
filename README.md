@@ -23,7 +23,9 @@ Click on the logo to open layout in Figma.
 Index.html - main page of the website
 ```
 
-![Иллюстрация к проекту](images/index.jpg)
+<p align="center">
+  ![Иллюстрация к проекту](images/index.jpg)
+</p>
 
 ```
 Catalog.html - extra page of the website
