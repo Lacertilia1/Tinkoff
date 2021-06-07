@@ -111,7 +111,7 @@ The repository was created for training on the professional online course «[HTM
 My achievements
 ```
 
-<img align="center" width="1277" height="858" alt="Instagram layout" src="images/achievements.png">
+<img align="center" width="797" height="535" alt="Instagram layout" src="images/achievements.png">
 
 ---
 
