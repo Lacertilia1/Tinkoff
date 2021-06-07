@@ -20,7 +20,7 @@ Click on the logo to open layout in Figma.
 # Preview
 
 ```
-<p align="center">Index.html - main page of the website</p>
+Index.html - main page of the website
 ```
 
 ![Иллюстрация к проекту](images/index.jpg)
