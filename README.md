@@ -1,4 +1,4 @@
-![Градиент](images/intro.png)
+<img align="center" width="800" height="140" alt="Instagram layout" src="images/training.png">
 
 # Sedona
 
@@ -103,6 +103,8 @@ The repository was created for training on the professional online course «[HTM
 
 
 ![Градиент](images/sunglasses.png)
+
+<img align="center" width="800" height="140" alt="Instagram layout" src="images/sunglasses.png">
 
 ## Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
