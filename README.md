@@ -8,6 +8,10 @@ Sedona is an entry-level [@htmlacademy] layout.
 
 The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
 
+<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="50" height="50" alt="HTML Academy" src="images/figmaa.png"></a>
+
+Click on the logo to open layout in Figma.
+
 ## Preview
 
 ```
@@ -106,8 +110,6 @@ Catalog.html - extra page of the website
 
 <a href="https://www.instagram.com/artist_idiot/"><img align="left" width="200" height="200" alt="Instagram layout" src="images/instagram.webp"></a>
 
-
-<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="800" height="140" alt="Figma layout" src="images/figmaa.png"></a>
 
 [check-image]: https://github.com/htmlacademy-adaptive/1629453-pink-22/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1629453-pink-22/actions
