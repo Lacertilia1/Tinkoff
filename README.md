@@ -104,7 +104,7 @@ Styleguide - web page element styling guide
 
 <img align="center" width="797" height="535" alt="Instagram layout" src="images/achievements.png">
 
----
+
 
 <img align="center" width="800" height="140" alt="Instagram layout" src="images/social.png">
 
