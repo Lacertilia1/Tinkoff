@@ -12,20 +12,24 @@ Sedona is an entry-level [@htmlacademy] layout.
 Index.html - main page of the website
 ```
 
-<img align="center"alt="Figma layout" src="images/index.jpg">
+
+![Иллюстрация к проекту](images/index.jpg)
+
 
 ```
 Catalog.html - extra page of the website
 ```
 
-<img align="center"alt="Figma layout" src="images/catalog.jpg">
+
+![Иллюстрация к проекту](images/catalog.jpg)
+
 
 ```
 Styleguide - web page element styling guide
 ```
 
-<img align="center"alt="Figma layout" src="styleguide.jpg">
 
+![Иллюстрация к проекту](images/styleguide.jpg)
 
 <a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="50" height="50" alt="Figma layout" src="images/figma.webp"></a>
 
@@ -107,7 +111,7 @@ The repository was created for training on the professional online course «[HTM
 My achievements
 ```
 
-<img align="center" width="800" height="140" alt="Instagram layout" src="images/achievements.png">
+<img align="center" width="1277" height="858" alt="Instagram layout" src="images/achievements.png">
 
 ---
 
