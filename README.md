@@ -13,10 +13,10 @@ Sedona is an entry-level [@htmlacademy] layout.
 The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
 
 <p align="center">
-<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img width="60" height="60" alt="HTML Academy" src="images/figma-logo.png"></a>
+<a href=""><img width="60" height="60" alt="HTML Academy" src="images/figma-logo.png"></a>
 </p>
 
-<p align="center">Click on the logo to open layout in «[Figma](https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1)».</p>
+<p align="center">Click on the logo to open layout in [Figma].</p>
 
 
 # Preview
@@ -128,3 +128,4 @@ Catalog.html - extra page of the website
 [check-image]: https://github.com/htmlacademy-adaptive/1629453-pink-22/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1629453-pink-22/actions
 [@htmlacademy]: https://htmlacademy.ru
+[figma]: https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1
