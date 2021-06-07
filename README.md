@@ -30,9 +30,6 @@ Styleguide - web page element styling guide
 
 ![Иллюстрация к проекту](images/styleguide.jpg)
 
----
-
-
 <a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1"><img align="left" width="50" height="50" alt="Figma layout" src="images/figma.webp"></a>
 
 ## Technical task
@@ -103,12 +100,11 @@ Styleguide - web page element styling guide
 
 The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
 
----
 
-#### Student: [Pavel Ivanov](https://vk.com/artist_idiot).
+![Градиент](images/gradient.webp)
 
+## Student: [Pavel Ivanov](https://vk.com/artist_idiot).
 
-#### Social links
 
 <a href="https://vk.com/artist_idiot"><img align="left" width="200" height="200" alt="VK layout" src="images/vk.png"></a>
 
