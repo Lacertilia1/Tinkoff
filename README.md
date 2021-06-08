@@ -37,7 +37,7 @@ Catalog.html - extra page of the website
 <img width="800" height="140" alt="Instagram layout" src="images/task.png">
 </p>
 
-## 1. General technical requirements
+## 1. General technical requirements :orange_book:
 
 - 1.1. Layout standards: HTML, CSS, progressive enhancement.
 - 1.2. Grid: defined in the layout.
@@ -50,13 +50,13 @@ Catalog.html - extra page of the website
 
 ---
 
-## 2. Explanations for students
+## 2. Explanations for students :orange_book:
 
 - 2.1. The section "Prerequisites" describes the behavior of blocks that must be implemented to successfully protect the project. Requirements from the Additional Requirements section can be implemented as desired to fulfill additional criteria.
 
 ---
 
-## 3. Mandatory requirements
+## 3. Mandatory requirements :orange_book:
 
 ### All layouts
 
@@ -87,7 +87,7 @@ Catalog.html - extra page of the website
 
 ---
 
-## 4. Additional requirements
+## 4. Additional requirements :orange_book:
 
 ### Index
 
