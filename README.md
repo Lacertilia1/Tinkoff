@@ -2,7 +2,7 @@
   <img width="800" height="140" alt="Instagram layout" src="images/training.png">
 </p>
 
-# Sedona
+:sun_with_face: # Sedona
 
 Sedona is an entry-level [@htmlacademy] layout.
 
