@@ -58,7 +58,7 @@ Catalog.html - extra page of the website
 
 ## 3. Mandatory requirements :orange_book:
 
-### All layouts
+### All layouts :page_facing_up:
 
 - 3.1. The content area is centered and cannot be narrower than the layout width.
 - 3.2. The logo is not a menu item. It needs to be marked up as a separate element.
@@ -69,7 +69,7 @@ Catalog.html - extra page of the website
 - 3.7. In the three blocks of the footer, the content is centered.
 - 3.8. The Academy logo in the basement leads to the intensive landing page “HTML and CSS. Professional site layout ".
 
-### Index
+### Index :page_facing_up:
 
 - 3.9. Large photo: The photo spans the entire width, with a white mask at the bottom.
 - 3.10. By default, the hotel search form should be open.
@@ -77,7 +77,7 @@ Catalog.html - extra page of the website
 - 3.12. The calendar icon in the date input field should be added as a separate element so that in the future the programmer can hang a click event on it to open a calendar with a date selection option.
 - 3.13. Map Block: Sufficient Implementation - Regular Image.
 
-### Catalog
+### Catalog :page_facing_up:
 
 - 3.14. The logo is a link to the home page.
 - 3.15. The main menu and footer are the same as the main page.
@@ -89,13 +89,13 @@ Catalog.html - extra page of the website
 
 ## 4. Additional requirements :orange_book:
 
-### Index
+### Index :page_facing_up:
 
 - 4.1. When JavaScript is initialized, a class is added to the hotel search form that hides it. The form becomes hidden by default.
 - 4.2. The button "Find a hotel in Sedona" controls the display of the hotel search form. The appearance of the form must be supplemented with an animation of "moving out" from top to bottom relative to the button, not the browser window.
 - 4.3. Map block: An interactive map that stretches across the entire width of the container. Implementation at will.
 
-### Catalog
+### Catalog :page_facing_up:
 
 - 4.4. Filter: Clicking on the Show button submits the form.
 
