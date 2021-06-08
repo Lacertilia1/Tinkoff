@@ -124,6 +124,9 @@ Catalog.html - extra page of the website
 
 <a href="https://www.twitch.tv/paxah"><img align="left" width="250" height="250" alt="Twitch layout" src="images/twitch-extra.png"></a>
 
+<p align="center">
+  <img src="images/loader.gif" width="200" height="200" alt="oops">
+</p>
 
 [check-image]: https://github.com/htmlacademy-adaptive/1629453-pink-22/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1629453-pink-22/actions
