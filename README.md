@@ -6,7 +6,6 @@
 
 Sedona is an entry-level [@htmlacademy] layout.
 
-
 # Preview :eyeglasses:
 
 ```
@@ -40,11 +39,9 @@ Catalog.html - extra page of the website
 - 1.7. Font used: PT Sans. The font is in the project folder and on Google Fonts.
 - 1.8. A style guide is provided with the layout, which contains drawing the states of the interface elements. For any discrepancies with layouts, it should take the highest priority.
 
-
 ## 2. Explanations for students :orange_book:
 
 - 2.1. The section "Prerequisites" describes the behavior of blocks that must be implemented to successfully protect the project. Requirements from the Additional Requirements section can be implemented as desired to fulfill additional criteria.
-
 
 ## 3. Mandatory requirements :orange_book:
 
@@ -75,7 +72,6 @@ Catalog.html - extra page of the website
 - 3.17. Filter: typeset using the form, the "Show" button is responsible for sending the form to the address https://echo.htmlacademy.ru/.
 - 3.18. Block "Cost per day": when interacting with any of the markers, any suitable cursor type can be used as a pointer. It is not necessary to make markers interactive, the cost should not change.
 
-
 ## 4. Additional requirements :orange_book:
 
 ### Index :page_facing_up:
@@ -96,7 +92,7 @@ Click on the logo to open layout in Figma.
 
 <a href="https://htmlacademy.ru/intensive/adaptive"><img width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
 
-<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)"><img width="60" height="60" alt="HTML Academy" src="images/figma-logo.png"></a>
+<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)"><img width="50" height="50" alt="HTML Academy" src="images/figma-image.png"></a>
 
 ---
 
@@ -137,4 +133,4 @@ Click on the logo to open layout in Figma.
 [check-image]: https://github.com/htmlacademy-adaptive/1629453-pink-22/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/1629453-pink-22/actions
 [@htmlacademy]: https://htmlacademy.ru
-[Figma]: https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1
+[figma]: https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)?node-id=0%3A1
