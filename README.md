@@ -35,6 +35,8 @@ Catalog.html - extra page of the website
 
 ![Иллюстрация к проекту](images/catalog.jpg)
 
+---
+
 <p align="center">
 <img width="800" height="140" alt="Instagram layout" src="images/task.png">
 </p>
