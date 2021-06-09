@@ -90,9 +90,7 @@ The repository was created for training on the professional online course «[HTM
 
 Click on the logo to open layout in Figma.
 
-<a href="https://htmlacademy.ru/intensive/adaptive"><img width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
-
-<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)"><img width="50" height="50" alt="HTML Academy" src="images/figma-image.png"></a>
+<a href="https://htmlacademy.ru/intensive/adaptive"><img width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a> <a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)"><img width="50" height="50" alt="HTML Academy" src="images/figma-image.png"></a>
 
 ---
 
