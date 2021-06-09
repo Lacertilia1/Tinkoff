@@ -28,7 +28,7 @@ Catalog.html - extra page of the website
 <img width="800" height="140" alt="Instagram layout" src="images/task.png">
 </p>
 
-## 1. General technical requirements <img src="images/book.gif" width="30" height="30" alt="book">
+## 1. General technical requirements :orange_book:
 
 - 1.1. Layout standards: HTML, CSS, progressive enhancement.
 - 1.2. Grid: defined in the layout.
