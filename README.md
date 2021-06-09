@@ -6,18 +6,6 @@
 
 Sedona is an entry-level [@htmlacademy] layout.
 
-<p align="center">
-<a href="https://htmlacademy.ru/intensive/adaptive"><img width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
-</p>
-
-The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
-
-<p align="center">
-<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)"><img width="60" height="60" alt="HTML Academy" src="images/figma-logo.png"></a>
-</p>
-
-<p align="center">Click on the logo to open layout in Figma.</p>
-
 
 # Preview :eyeglasses:
 
@@ -99,6 +87,16 @@ Catalog.html - extra page of the website
 ### Catalog :page_facing_up:
 
 - 4.4. Filter: Clicking on the Show button submits the form.
+
+---
+
+The repository was created for training on the professional online course «[HTML and CSS. Professional Website Layout](https://htmlacademy.ru/intensive/adaptive)» from [HTML Academy](https://htmlacademy.ru).
+
+Click on the logo to open layout in Figma.
+
+<a href="https://htmlacademy.ru/intensive/adaptive"><img width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
+
+<a href="https://www.figma.com/file/ASeQqd0fG7Ug51ssFdapgv/HTML-1-%2F-%D0%A1%D0%B5%D0%B4%D0%BE%D0%BD%D0%B0-(30)"><img width="60" height="60" alt="HTML Academy" src="images/figma-logo.png"></a>
 
 ---
 
