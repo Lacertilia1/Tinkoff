@@ -6,6 +6,12 @@
 
 Sedona is an entry-level [@htmlacademy] layout.
 
+|  Property  | Value               |
+| ------------- |:------------------:|
+| Difficulty    | 1 out of 10    |
+| Preprocessor     | Less |
+| Automation  | Gulp         |
+
 # Preview :eyeglasses:
 
 ```
