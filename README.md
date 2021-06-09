@@ -48,13 +48,11 @@ Catalog.html - extra page of the website
 - 1.7. Font used: PT Sans. The font is in the project folder and on Google Fonts.
 - 1.8. A style guide is provided with the layout, which contains drawing the states of the interface elements. For any discrepancies with layouts, it should take the highest priority.
 
----
 
 ## 2. Explanations for students :orange_book:
 
 - 2.1. The section "Prerequisites" describes the behavior of blocks that must be implemented to successfully protect the project. Requirements from the Additional Requirements section can be implemented as desired to fulfill additional criteria.
 
----
 
 ## 3. Mandatory requirements :orange_book:
 
@@ -85,7 +83,6 @@ Catalog.html - extra page of the website
 - 3.17. Filter: typeset using the form, the "Show" button is responsible for sending the form to the address https://echo.htmlacademy.ru/.
 - 3.18. Block "Cost per day": when interacting with any of the markers, any suitable cursor type can be used as a pointer. It is not necessary to make markers interactive, the cost should not change.
 
----
 
 ## 4. Additional requirements :orange_book:
 
