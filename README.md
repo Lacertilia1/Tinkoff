@@ -27,6 +27,8 @@ Index.html - main page of the website
 
 ![Иллюстрация к проекту](images/index.jpg)
 
+---
+
 ```
 Catalog.html - extra page of the website
 ```
