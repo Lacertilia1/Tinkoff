@@ -1,0 +1,36 @@
+// input.less
+
+.input {
+  box-sizing: border-box;
+  width: 280px;
+  min-height: 61px;
+  padding: 10px 12px;
+
+  font-size: 14px;
+  line-height: 16px;
+
+  border: none;
+  border-radius: 12px;
+
+  background-color: var(--input);
+
+  resize: none;
+
+  &::placeholder {
+    font-size: 13px;
+  }
+
+  &:hover {
+    background-color: var(--white);
+  }
+
+  &:active {
+    background-color: var(--white);
+  }
+
+  &:focus {
+    background-color: var(--white);
+  }
+
+  transition: background-color 0.1s linear;
+}

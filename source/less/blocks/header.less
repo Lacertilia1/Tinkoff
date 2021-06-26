@@ -1,0 +1,114 @@
+// header.less
+.header {
+  width: 320px;
+  margin: 0 auto;
+  padding: 15px 0;
+
+  @media (min-width: @tablet-width) {
+    width: @tablet-width;
+  }
+
+  @media (min-width: @desktop-width) {
+    width: @desktop-width;
+  }
+}
+
+.header__navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__button {
+  border: none;
+  background-color: transparent;
+
+  cursor: pointer;
+}
+
+.header__logo-wrapper {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.header__book-text,
+.header__people-text {
+  display: none;
+
+  @media (min-width: @desktop-width) {
+    display: block;
+  }
+
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 700;
+  padding: 10px 15px;
+
+  border-radius: 20px;
+
+  color: var(--black);
+  background-color: var(--background);
+
+  &:hover {
+    color: var(--white);
+    background-color: var(--black);
+  }
+
+  &:active {
+    opacity: 0.3;
+  }
+
+  transition: all 0.1s linear;
+}
+
+.header__book-text {
+  margin-right: 20px;
+}
+
+// SVG-иконки в навигации
+
+.header__logo {
+  margin-right: 20px;
+
+  fill: var(--black);
+
+  &:hover {
+    fill: var(--white);
+    background-color: var(--black);
+  }
+
+  &:active {
+    fill: var(--white);
+    background-color: var(--yellow);
+  }
+
+  transition: all 0.05s linear;
+}
+
+// Состояния иконки "Лупы"
+.header__find {
+  fill: var(--black);
+}
+
+.header__button--one:hover .header__find {
+  fill-opacity: 0.6;
+}
+
+.header__button--one:active .header__find {
+  fill-opacity: 0.3;
+}
+
+// Состояния иконки "Профиль"
+.header__user {
+  fill: var(--black);
+}
+
+.header__button--two:hover .header__user {
+  fill-opacity: 0.6;
+}
+
+.header__button--two:active .header__user {
+  fill-opacity: 0.3;
+}

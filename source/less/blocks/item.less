@@ -1,16 +1,117 @@
 // item.less
 
+// Стилизация карточки
 .item {
+  position: relative;
+
+  width: 320px;
   min-height: var(--height);
   box-sizing: border-box;
-  padding-top: 50px;
-  padding-right: 20px;
-  padding-bottom: 73px;
-  padding-left: 20px;
 
-  background: linear-gradient(168.14deg, var(--start) -3.85%, var(--end) 135.11%);
+  padding-top: 40px;
+  padding-right: 20px;
+  padding-bottom: 69px;
+  padding-left: 20px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+
+  border-radius: 10px;
+
+  background-color: var(--start);
+
+  overflow: hidden;
+
+  // Свойства ниже добавляют отступ карточкам на мобильной версии, а также убирают отступ у последней карточки
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+
+  &:first-of-type {
+    margin-bottom: 20px;
+  }
 }
 
+// Фоны карточек
+.item--main {
+  padding-top: 52px;
+
+  background-image: url("../../img/index/background/background-main.jpg");
+  background-repeat: no-repeat;
+  background-size: 320px auto;
+  background-position: top -58px center;
+
+  @media (min-resolution: 2dppx) {
+    background-image: url("../../img/index/background/background-main@2x.jpg");
+  }
+}
+
+.item--one {
+  background-image: url("../../img/index/background/background-one.jpg");
+  background-repeat: no-repeat;
+  background-size: 320px auto;
+  background-position: top -56px center;
+
+  @media (min-resolution: 2dppx) {
+    background-image: url("../../img/index/background/background-one@2x.jpg");
+  }
+}
+
+.item--two {
+  background-image: url("../../img/index/background/background-two.jpg");
+  background-repeat: no-repeat;
+  background-size: 320px auto;
+  background-position: top -56px center;
+
+  @media (min-resolution: 2dppx) {
+    background-image: url("../../img/index/background/background-two@2x.jpg");
+  }
+}
+
+.item--three {
+  background-image: url("../../img/index/background/background-three.jpg");
+  background-repeat: no-repeat;
+  background-size: 320px auto;
+  background-position: top -56px center;
+
+  @media (min-resolution: 2dppx) {
+    background-image: url("../../img/index/background/background-three@2x.jpg");
+  }
+}
+
+.item--four {
+  background-image: url("../../img/index/background/background-four.jpg");
+  background-repeat: no-repeat;
+  background-size: 320px auto;
+  background-position: top -56px center;
+
+  @media (min-resolution: 2dppx) {
+    background-image: url("../../img/index/background/background-four@2x.jpg");
+  }
+}
+
+.item--five {
+  background-image: url("../../img/index/background/background-five.jpg");
+  background-repeat: no-repeat;
+  background-size: 320px auto;
+  background-position: top -56px center;
+
+  @media (min-resolution: 2dppx) {
+    background-image: url("../../img/index/background/background-five@2x.jpg");
+  }
+}
+
+.item--six {
+  background-image: url("../../img/index/background/background-six.jpg");
+  background-repeat: no-repeat;
+  background-size: 320px auto;
+  background-position: top -58px center;
+
+  @media (min-resolution: 2dppx) {
+    background-image: url("../../img/index/background/background-six@2x.jpg");
+  }
+}
+
+// Контент карточек
 .item__date {
   padding-top: 4px;
   padding-bottom: 4px;
@@ -24,4 +125,81 @@
 
   color: var(--black);
   background-color: var(--yellow);
+}
+
+// Заголовки
+.item__heading {
+  .no__margin-padding();
+  margin-bottom: 20px;
+
+  font-family: "Montserrat", "Arial", sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.item__heading--main {
+  margin-top: 20px;
+
+  font-size: 26px;
+  line-height: 31px;
+}
+
+// Текстовое описание карточки
+.item__description {
+  .no__margin-padding();
+  margin-bottom: 23px;
+
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.item__description--main {
+  font-size: 18px;
+  line-height: 22px;
+}
+
+// Ссылка
+.item__link {
+  color: var(--yellow);
+  border-bottom: 1px solid var(--yellow);
+
+  &:hover {
+    opacity: 0.6;
+  }
+
+  &:active {
+    opacity: 0.3;
+    border-bottom: none;
+  }
+
+  &:focus {
+    opacity: 0.6;
+  }
+
+  transition: opacity 0.1s linear;
+}
+
+// Список
+.item__content-list {
+  list-style-type: none;
+  padding-left: 24px;
+}
+
+.item__content-item {
+  position: relative;
+}
+
+.item__content-item::before {
+  content: "";
+
+  position: absolute;
+  top: 50%;
+  left: -14px;
+
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+
+  background-color: var(--white);
 }

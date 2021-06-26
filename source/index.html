@@ -21,31 +21,168 @@
 
 <body class="body">
 
+  <header class="body__header header">
+    <!-- Навигация -->
+    <nav class="header__navigation">
+      <div class="header__logo-wrapper">
+        <a class="header__link-wrapper" href="https://journal.tinkoff.ru/">
+          <span class="header__link-description visually-hidden">Нажмите, чтобы пройти на главную страницу</span>
+          <svg class="header__logo" width="100" height="14">
+            <use xlink:href="img/svg/sprite.svg#logo"></use>
+          </svg>
+        </a>
+
+        <div class="header__book-wrapper">
+          <a class="header__book" href="https://journal.tinkoff.ru/pro/">
+            <span class="header__link-description visually-hidden">Нажмите, чтобы пройти на cтраницу учебника</span>
+            <span class="header__book-text">Учебник</span>
+          </a>
+        </div>
+
+        <div class="header__people-wrapper">
+          <a class="header__people" href="https://journal.tinkoff.ru/community/">
+            <span class="header__link-description visually-hidden">Нажмите, чтобы пройти на страницу сообщества</span>
+            <span class="header__people-text">Сообщество</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="header__wrapper">
+        <button class="header__button header__button--one" type="button">
+          <span class="header__button-description visually-hidden">Нажмите, чтобы найти нужную информацию</span>
+          <svg class="header__find" width="35" height="35">
+            <use xlink:href="img/svg/sprite.svg#find"></use>
+          </svg>
+        </button>
+
+        <button class="header__button header__button--two" type="button">
+          <span class="header__button-description visually-hidden">Нажмите, чтобы войти</span>
+          <svg class="header__user" width="35" height="35">
+            <use xlink:href="img/svg/sprite.svg#user"></use>
+          </svg>
+        </button>
+      </div>
+    </nav>
+  </header>
+
   <main class="body__main main">
     <h1 class="main__heading visually-hidden">Delivery Club</h1>
 
-    <section class="main__item item">
-      <span class="item__date">2 февраля</span>
-      <h2 class="item__heading item__heading--main">
-        Delivery Club: как повысить продажи
-      </h2>
+    <ul class="main__list">
+      <!-- Карточка -->
+      <li class="main__item item item--main">
+        <span class="item__date">2 февраля</span>
+        <h2 class="item__heading item__heading--main">
+          Delivery Club: как повысить продажи
+        </h2>
+        <p class="item__description item__description--main">
+          По материалам подкаста «Бизнес-ланч» с Артемом Ишониным — директором Delivery Club
+        </p>
+      </li> <!-- ./Карточка -->
 
-      <p class="item__description">
-        По материалам подкаста «Бизнес-ланч» с Артемом Ишониным — директором Delivery Club
-      </p>
+      <!-- Карточка -->
+      <li class="main__item item item--one">
+        <h2 class="item__heading">
+          Определить участников процесса
+        </h2>
+        <p class="item__description">
+          Составьте список тех, кто пользуется вашим продуктом.
+        </p>
+        <a class="item__link" href="https://journal.tinkoff.ru/team/business-verstak/">Скачать чек-лист
+          списка</a>
+      </li> <!-- ./Карточка -->
 
-      <div class="item__block">
-        <img class="item__image" src="img/index/boss.jpg" width="65" height="65" alt="Фотография директора Delivery Club">
-        <div class="item__text-wrapper">
-          <p class="item__title">Артем Ишонин</p>
-          <p class="item__suptitle">директор по сопровождению клиентов Delivery Club</p>
-        </div>
-      </div>
-    </section>
+      <!-- Карточка -->
+      <li class="main__item item item--two">
+        <h2 class="item__heading">
+          Нарисовать карты сценариев использования
+        </h2>
+        <p class="item__description">
+          Представьте, какой путь проходит каждый участник процесса. Визуализируйте это.
+        </p>
+      </li> <!-- ./Карточка -->
 
+      <!-- Карточка -->
+      <li class="main__item item item--three">
+        <h2 class="item__heading">
+          Найти ошибки в процессах
+        </h2>
+        <p class="item__description">
+          Пройдите путь каждого пользователя по точкам, чтобы найти слабые места, которые снижают продажи.
+        </p>
+      </li> <!-- ./Карточка -->
+
+      <!-- Карточка -->
+      <li class="main__item item item--four">
+        <h2 class="item__heading">
+          Пересмотреть процессы
+        </h2>
+        <ul class="item__content-list">
+          <li class="item__content-item">Исправьте ошибки.</li>
+          <li class="item__content-item">Пропишите инструкции.</li>
+          <li class="item__content-item">Проверьте все еще раз.</li>
+        </ul>
+      </li> <!-- ./Карточка -->
+
+      <!-- Карточка -->
+      <li class="main__item item item--five">
+        <h2 class="item__heading">
+          Задайте вопрос спикеру
+        </h2>
+        <form class="item__form" method="get" action="https://echo.htmlacademy.ru" name="form">
+          <label class="item__label visually-hidden" for="question">Введите ваш вопрос</label>
+          <textarea class="item__input input" id="question" name="question"
+            placeholder="У меня есть вопрос, могу спросить?"></textarea>
+          <button class="item__button button button--submit" type="submit">Отправить</button>
+        </form>
+      </li> <!-- ./Карточка -->
+
+      <!-- Карточка -->
+      <li class="main__item item item--six">
+        <h2 class="item__heading">
+          Опыт Delivery Club в подкасте<br>
+          «Бизнес-ланч»
+        </h2>
+        <p class="item__description">
+          В подкасте с Артемом Ишониным из Delivery Club обсудили, как отлаживать процессы в компании.
+        </p>
+
+        <button class="item__button button button--youtube" type="button">Смотреть на YouTube</button>
+      </li> <!-- ./Карточка -->
+    </ul>
   </main>
 
-  <script src="js/script.js"></script>
+  <footer class="body__footer footer">
+    <ul class="footer__list">
+      <li class="footer__item"><a class="footer__link" href="https://journal.tinkoff.ru/team/collega/">Работа в Т-Ж</a>
+      </li>
+      <li class="footer__item"><a class="footer__link" href="https://journal.tinkoff.ru/about/">О проекте</a></li>
+      <li class="footer__item"><a class="footer__link" href="https://journal.tinkoff.ru/complains-form/">Сообщить о
+          проблеме</a></li>
+      <li class="footer__item"><a class="footer__link" href="mailto:journal@tinkoff.ru">journal@tinkoff.ru</a></li>
+      <li class="footer__item"><a class="footer__link" href="https://journal.tinkoff.ru/wiki/privacy/">Политика
+          конфиденциальности</a></li>
+    </ul>
+  </footer>
+
+  <section class="body__modal modal">
+    <h2 class="modal__heading">Войдите в Т⁠—⁠Ж</h2>
+    <p class="modal__text">Вы сможете комментировать статьи, сохранять материалы и проходить бесплатные курсы</p>
+
+    <form class="modal__form" method="post" action="https://echo.htmlacademy.ru" name="login">
+      <label class="modal__label visually-hidden" for="email">Введите почту или телефон</label>
+      <input class="modal__input" type="text" id="email" placeholder="Почта или телефон" name="email">
+      <button class="modal__button" type="submit">Войти</button>
+    </form>
+
+    <button class="modal__close" type="button">
+      <svg class="modal__img" width="20" height="20">
+        <use xlink:href="img/svg/sprite.svg#cross"></use>
+      </svg>
+    </button>
+  </section>
+
+  <script src="js/script.min.js"></script>
 </body>
 
 </html>
