@@ -38,6 +38,11 @@ Click on the logo to open layout in Figma.
   <img width="797" height="535" alt="Instagram layout" src="images/achievements.png">
 </p>
 
+|  Year  | Сertificate             |
+| ------------- |:------------------:|
+| 01.2021 - 03.2021    | HTML & CSS. Professional Website Coding    |
+| 03.2021 - 05.2021     | HTML & CSS. Adaptive Website Coding and Automation |
+
 ---
 
 <p align="center">
