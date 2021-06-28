@@ -13,6 +13,8 @@
 
   <link rel="preload" href="fonts/sf-pro-regular.woff2" type="font/woff2" as="font">
   <link rel="preload" href="fonts/sf-pro-bold.woff2" type="font/woff2" as="font">
+  <link rel="preload" href="fonts/sf-pro-medium.woff2" type="font/woff2" as="font">
+  <link rel="preload" href="fonts/Montserrat-Black.woff2" type="font/woff2" as="font">
   <meta name="description"
     content="Статьи об управлении деньгами. Как экономить, вкладывать, защищать свои права и общаться с банками">
   <meta name="keywords" content="tinkoff, техническое задание, верстальщик, дорого">
@@ -131,8 +133,8 @@
         </h2>
         <form class="item__form" method="get" action="https://echo.htmlacademy.ru" name="form">
           <label class="item__label visually-hidden" for="question">Введите ваш вопрос</label>
-          <textarea class="item__input input" id="question" name="question"
-            placeholder="У меня есть вопрос, могу спросить?"></textarea>
+          <textarea class="item__input input input--question" id="question" name="question"
+            placeholder="У меня есть вопрос, могу спросить?" required></textarea>
           <button class="item__button button button--submit" type="submit">Отправить</button>
         </form>
       </li> <!-- ./Карточка -->
@@ -165,13 +167,14 @@
     </ul>
   </footer>
 
+  <!-- Модальное окно -->
   <section class="body__modal modal">
     <h2 class="modal__heading">Войдите в Т⁠—⁠Ж</h2>
     <p class="modal__text">Вы сможете комментировать статьи, сохранять материалы и проходить бесплатные курсы</p>
 
     <form class="modal__form" method="post" action="https://echo.htmlacademy.ru" name="login">
       <label class="modal__label visually-hidden" for="email">Введите почту или телефон</label>
-      <input class="modal__input" type="text" id="email" placeholder="Почта или телефон" name="email">
+      <input class="modal__input" type="text" id="email" placeholder="Почта или телефон" name="email" required>
       <button class="modal__button" type="submit">Войти</button>
     </form>
 
