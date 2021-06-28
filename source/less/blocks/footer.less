@@ -6,7 +6,9 @@
   padding: 40px 0;
 
   @media (min-width: @tablet-width) {
+    padding: 20px;
     width: @tablet-width;
+    box-sizing: border-box;
   }
 
   @media (min-width: @desktop-width) {
@@ -16,10 +18,12 @@
 
 .footer__list {
   .no__margin-padding();
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
   @media (min-width: @tablet-width) {
-    display: flex;
-    flex-wrap: wrap;
+    justify-content: space-evenly;
   }
 
   @media (min-width: @desktop-width) {
@@ -29,6 +33,7 @@
 
 .footer__item {
   margin-left: 10px;
+  margin-bottom: 5px;
 
   @media (min-width: @tablet-width) {
     margin-right: 20px;
